@@ -11,3 +11,9 @@ The ERD demonstrates key concepts such as:
 ## ERD Summary Image
 
 ![Conceptual ERD](ERD.jpg)
+
+---
+
+<h3 align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=husseinMohamed7.ERD-database-concepts" alt="Visitors"/>
+</h3>
