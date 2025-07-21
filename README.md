@@ -16,7 +16,7 @@ The ERD demonstrates key concepts such as:
 
 ## drawio file
 
-https://drive.google.com/file/d/1PE8oseNyfJHu5T4ZDnl7qBQ51GOS-H6A/view?usp=drivesdk
+[Download the Draw.io file](ERD.drawio)
 
 ---
 
